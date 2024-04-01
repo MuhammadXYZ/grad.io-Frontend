@@ -29,7 +29,7 @@ export default function index() {
                                 <div className="">
 
                                 </div>
-                                <div className="">
+                                <div className="left-top-main-index">
                                     <p className='hometxt-1'>Feed your career</p>
                                     <h2 className='hometxt-2 '>Discover your future and let <span className='txt-grad' >Grad.io</span>  guide you through the process </h2>
                                     <p className='hometxt-3' >Uncover your genuine vocation through our tailored career recommendations. Allow us to lead you toward a gratifying journey where your skills and passions seamlessly converge. </p>
